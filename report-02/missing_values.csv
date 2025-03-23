@@ -1,0 +1,6 @@
+ID,Name,Age,Gender,Salary
+1,Alex,25,Male,50000
+2,Ben,NaN,Male,60000
+3,Chris,30,NaN,70000
+4,Dana,28,Female,NaN
+5,Eva,35,Female,80000
